@@ -13,7 +13,8 @@
 
 ### Demo Screeshots
 
-![Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Screenshot Capture - 2023-01-25 - 21-14-09](https://user-images.githubusercontent.com/115978151/214608425-c694facd-c321-46ce-bfd1-de1d63a5f1c3.png)
+
 
 ### Prerequisites
 
