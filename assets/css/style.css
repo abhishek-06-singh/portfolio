@@ -380,16 +380,20 @@ body {
 .portfolio .section-text { margin-block-end: 80px; }
 
 .portfolio-list {
-  display: grid;
+  display:grid;
   gap: 60px;
+ 
 }
 
 .portfolio-card {
+  
+  /* width: 900px;
+  height: 450px; */
   background-color: var(--independence);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  padding: 200px 20px;
+  padding: 150px;
   border-radius: var(--radius-20);
   font-family: var(--ff-barlow);
   color:blueviolet;
@@ -430,7 +434,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  padding: 300px 10px;
+  padding: 30px 10px;
   border-radius: var(--radius-20);
   font-family: var(--ff-barlow);
   color:blueviolet;
